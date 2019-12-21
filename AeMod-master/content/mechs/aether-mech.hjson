@@ -1,0 +1,16 @@
+name: Aether
+description: A light battle mech. Shoots powerful lighting.
+speed: 5
+boostSpeed: 10
+buildPower: 2
+engineColor: "666495"
+flying: false
+health: 150
+weaponOffsetX: 1
+weapon: {
+  name: chrome-blaster
+  length: 1.5
+  reload: 1
+  alternate: false
+  bullet: lightning
+}
